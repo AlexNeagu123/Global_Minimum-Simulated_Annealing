@@ -1,0 +1,723 @@
+Running nr 0
+Hill Climbing Algorithm (BEST IMPROVEMENT):
+------[Rastrigin Function]-----
+Parameters: 
+Number Of Dimensions: 5
+Number of hill climbing iterations: 10000
+Epsilon value is: 0.0000100000
+Finished computation at Thu Oct 20 12:30:48 2022
+Elapsed time: 24.8672584000s
+The minimum value is: 0.0000000237
+
+Hill Climbing Algorithm (FIRST IMPROVEMENT):
+------[Rastrigin Function]-----
+Parameters: 
+Number Of Dimensions: 5
+Number of hill climbing iterations: 10000
+Epsilon value is: 0.0000100000
+Finished computation at Thu Oct 20 12:30:58 2022
+Elapsed time: 9.5550003000s
+The minimum value is: 0.0000000237
+
+Hill Climbing Algorithm (BEST IMPROVEMENT):
+------[Michalewiczs Function]-----
+Parameters: 
+Number Of Dimensions: 5
+Number of hill climbing iterations: 10000
+Epsilon value is: 0.0000100000
+Finished computation at Thu Oct 20 12:31:24 2022
+Elapsed time: 26.6371336000s
+The minimum value is: -4.6876580404
+
+Hill Climbing Algorithm (FIRST IMPROVEMENT):
+------[Michalewiczs Function]-----
+Parameters: 
+Number Of Dimensions: 5
+Number of hill climbing iterations: 10000
+Epsilon value is: 0.0000100000
+Finished computation at Thu Oct 20 12:31:33 2022
+Elapsed time: 8.9671708000s
+The minimum value is: -4.6875793975
+
+Hill Climbing Algorithm (BEST IMPROVEMENT):
+------[DeJong Function]-----
+Parameters: 
+Number Of Dimensions: 5
+Number of hill climbing iterations: 10000
+Epsilon value is: 0.0000100000
+Finished computation at Thu Oct 20 12:31:54 2022
+Elapsed time: 20.1986004000s
+The minimum value is: 0.0000000001
+
+Hill Climbing Algorithm (FIRST IMPROVEMENT):
+------[DeJong Function]-----
+Parameters: 
+Number Of Dimensions: 5
+Number of hill climbing iterations: 10000
+Epsilon value is: 0.0000100000
+Finished computation at Thu Oct 20 12:32:01 2022
+Elapsed time: 7.6464721000s
+The minimum value is: 0.0000000001
+
+Hill Climbing Algorithm (BEST IMPROVEMENT):
+------[Schwefell Function]-----
+Parameters: 
+Number Of Dimensions: 5
+Number of hill climbing iterations: 10000
+Epsilon value is: 0.0000100000
+Finished computation at Thu Oct 20 12:33:08 2022
+Elapsed time: 66.8543476000s
+The minimum value is: -2094.9131667921
+
+Hill Climbing Algorithm (FIRST IMPROVEMENT):
+------[Schwefell Function]-----
+Parameters: 
+Number Of Dimensions: 5
+Number of hill climbing iterations: 10000
+Epsilon value is: 0.0000100000
+Finished computation at Thu Oct 20 12:33:25 2022
+Elapsed time: 17.4108385000s
+The minimum value is: -2094.7067524909
+
+Hill Climbing Algorithm (BEST IMPROVEMENT):
+------[Rastrigin Function]-----
+Parameters: 
+Number Of Dimensions: 10
+Number of hill climbing iterations: 5000
+Epsilon value is: 0.0000100000
+Finished computation at Thu Oct 20 12:34:27 2022
+Elapsed time: 61.1402803000s
+The minimum value is: 2.9899302692
+
+Hill Climbing Algorithm (FIRST IMPROVEMENT):
+------[Rastrigin Function]-----
+Parameters: 
+Number Of Dimensions: 10
+Number of hill climbing iterations: 5000
+Epsilon value is: 0.0000100000
+Finished computation at Thu Oct 20 12:34:43 2022
+Elapsed time: 16.9062128000s
+The minimum value is: 4.2257526019
+
+Hill Climbing Algorithm (BEST IMPROVEMENT):
+------[Michalewiczs Function]-----
+Parameters: 
+Number Of Dimensions: 10
+Number of hill climbing iterations: 5000
+Epsilon value is: 0.0000100000
+Finished computation at Thu Oct 20 12:36:01 2022
+Elapsed time: 77.7670751000s
+The minimum value is: -9.4390942317
+
+Hill Climbing Algorithm (FIRST IMPROVEMENT):
+------[Michalewiczs Function]-----
+Parameters: 
+Number Of Dimensions: 10
+Number of hill climbing iterations: 5000
+Epsilon value is: 0.0000100000
+Finished computation at Thu Oct 20 12:36:18 2022
+Elapsed time: 17.0289386000s
+The minimum value is: -9.4057618395
+
+Hill Climbing Algorithm (BEST IMPROVEMENT):
+------[DeJong Function]-----
+Parameters: 
+Number Of Dimensions: 10
+Number of hill climbing iterations: 5000
+Epsilon value is: 0.0000100000
+Finished computation at Thu Oct 20 12:37:40 2022
+Elapsed time: 82.0224113000s
+The minimum value is: 0.0000000002
+
+Hill Climbing Algorithm (FIRST IMPROVEMENT):
+------[DeJong Function]-----
+Parameters: 
+Number Of Dimensions: 10
+Number of hill climbing iterations: 5000
+Epsilon value is: 0.0000100000
+Finished computation at Thu Oct 20 12:37:53 2022
+Elapsed time: 13.1138626000s
+The minimum value is: 0.0000000002
+
+Hill Climbing Algorithm (BEST IMPROVEMENT):
+------[Schwefell Function]-----
+Parameters: 
+Number Of Dimensions: 10
+Number of hill climbing iterations: 5000
+Epsilon value is: 0.0000100000
+Finished computation at Thu Oct 20 12:40:22 2022
+Elapsed time: 148.7094607000s
+The minimum value is: -4128.1913857655
+
+Hill Climbing Algorithm (FIRST IMPROVEMENT):
+------[Schwefell Function]-----
+Parameters: 
+Number Of Dimensions: 10
+Number of hill climbing iterations: 5000
+Epsilon value is: 0.0000100000
+Finished computation at Thu Oct 20 12:40:56 2022
+Elapsed time: 34.1155458000s
+The minimum value is: -3894.7769339602
+
+Hill Climbing Algorithm (BEST IMPROVEMENT):
+------[Rastrigin Function]-----
+Parameters: 
+Number Of Dimensions: 30
+Number of hill climbing iterations: 500
+Epsilon value is: 0.0000100000
+Finished computation at Thu Oct 20 12:43:33 2022
+Elapsed time: 156.3716019000s
+The minimum value is: 29.2265333459
+
+Hill Climbing Algorithm (FIRST IMPROVEMENT):
+------[Rastrigin Function]-----
+Parameters: 
+Number Of Dimensions: 30
+Number of hill climbing iterations: 500
+Epsilon value is: 0.0000100000
+Finished computation at Thu Oct 20 12:43:48 2022
+Elapsed time: 15.4410362000s
+The minimum value is: 43.9803970088
+
+Hill Climbing Algorithm (BEST IMPROVEMENT):
+------[Michalewiczs Function]-----
+Parameters: 
+Number Of Dimensions: 30
+Number of hill climbing iterations: 500
+Epsilon value is: 0.0000100000
+Finished computation at Thu Oct 20 12:46:32 2022
+Elapsed time: 163.9190505000s
+The minimum value is: -26.6805383011
+
+Hill Climbing Algorithm (FIRST IMPROVEMENT):
+------[Michalewiczs Function]-----
+Parameters: 
+Number Of Dimensions: 30
+Number of hill climbing iterations: 500
+Epsilon value is: 0.0000100000
+Finished computation at Thu Oct 20 12:46:48 2022
+Elapsed time: 15.7130220000s
+The minimum value is: -25.2981834303
+
+Hill Climbing Algorithm (BEST IMPROVEMENT):
+------[DeJong Function]-----
+Parameters: 
+Number Of Dimensions: 30
+Number of hill climbing iterations: 500
+Epsilon value is: 0.0000100000
+Finished computation at Thu Oct 20 12:49:36 2022
+Elapsed time: 168.7169584000s
+The minimum value is: 0.0000000007
+
+Hill Climbing Algorithm (FIRST IMPROVEMENT):
+------[DeJong Function]-----
+Parameters: 
+Number Of Dimensions: 30
+Number of hill climbing iterations: 500
+Epsilon value is: 0.0000100000
+Finished computation at Thu Oct 20 12:49:49 2022
+Elapsed time: 12.6891930000s
+The minimum value is: 0.0000000007
+
+Hill Climbing Algorithm (BEST IMPROVEMENT):
+------[Schwefell Function]-----
+Parameters: 
+Number Of Dimensions: 30
+Number of hill climbing iterations: 500
+Epsilon value is: 0.0000100000
+Finished computation at Thu Oct 20 12:56:30 2022
+Elapsed time: 400.5048832000s
+The minimum value is: -11191.8631184389
+
+Hill Climbing Algorithm (FIRST IMPROVEMENT):
+------[Schwefell Function]-----
+Parameters: 
+Number Of Dimensions: 30
+Number of hill climbing iterations: 500
+Epsilon value is: 0.0000100000
+Finished computation at Thu Oct 20 12:57:11 2022
+Elapsed time: 41.4171414000s
+The minimum value is: -10776.3888853163
+
+Running nr 1
+Hill Climbing Algorithm (BEST IMPROVEMENT):
+------[Rastrigin Function]-----
+Parameters: 
+Number Of Dimensions: 5
+Number of hill climbing iterations: 10000
+Epsilon value is: 0.0000100000
+Finished computation at Thu Oct 20 12:57:31 2022
+Elapsed time: 20.3779460000s
+The minimum value is: 0.0000000237
+
+Hill Climbing Algorithm (FIRST IMPROVEMENT):
+------[Rastrigin Function]-----
+Parameters: 
+Number Of Dimensions: 5
+Number of hill climbing iterations: 10000
+Epsilon value is: 0.0000100000
+Finished computation at Thu Oct 20 12:57:43 2022
+Elapsed time: 12.0105513000s
+The minimum value is: 0.0000000237
+
+Hill Climbing Algorithm (BEST IMPROVEMENT):
+------[Michalewiczs Function]-----
+Parameters: 
+Number Of Dimensions: 5
+Number of hill climbing iterations: 10000
+Epsilon value is: 0.0000100000
+Finished computation at Thu Oct 20 12:58:16 2022
+Elapsed time: 32.6421694000s
+The minimum value is: -4.6875873433
+
+Hill Climbing Algorithm (FIRST IMPROVEMENT):
+------[Michalewiczs Function]-----
+Parameters: 
+Number Of Dimensions: 5
+Number of hill climbing iterations: 10000
+Epsilon value is: 0.0000100000
+Finished computation at Thu Oct 20 12:58:25 2022
+Elapsed time: 9.1245218000s
+The minimum value is: -4.6876476594
+
+Hill Climbing Algorithm (BEST IMPROVEMENT):
+------[DeJong Function]-----
+Parameters: 
+Number Of Dimensions: 5
+Number of hill climbing iterations: 10000
+Epsilon value is: 0.0000100000
+Finished computation at Thu Oct 20 12:58:46 2022
+Elapsed time: 20.7512802000s
+The minimum value is: 0.0000000001
+
+Hill Climbing Algorithm (FIRST IMPROVEMENT):
+------[DeJong Function]-----
+Parameters: 
+Number Of Dimensions: 5
+Number of hill climbing iterations: 10000
+Epsilon value is: 0.0000100000
+Finished computation at Thu Oct 20 12:58:54 2022
+Elapsed time: 8.5232280000s
+The minimum value is: 0.0000000001
+
+Hill Climbing Algorithm (BEST IMPROVEMENT):
+------[Schwefell Function]-----
+Parameters: 
+Number Of Dimensions: 5
+Number of hill climbing iterations: 10000
+Epsilon value is: 0.0000100000
+Finished computation at Thu Oct 20 13:00:01 2022
+Elapsed time: 66.9939400000s
+The minimum value is: -2094.9138010650
+
+Hill Climbing Algorithm (FIRST IMPROVEMENT):
+------[Schwefell Function]-----
+Parameters: 
+Number Of Dimensions: 5
+Number of hill climbing iterations: 10000
+Epsilon value is: 0.0000100000
+Finished computation at Thu Oct 20 13:00:21 2022
+Elapsed time: 19.4272519000s
+The minimum value is: -2094.8095060387
+
+Hill Climbing Algorithm (BEST IMPROVEMENT):
+------[Rastrigin Function]-----
+Parameters: 
+Number Of Dimensions: 10
+Number of hill climbing iterations: 5000
+Epsilon value is: 0.0000100000
+Finished computation at Thu Oct 20 13:01:45 2022
+Elapsed time: 84.1938647000s
+The minimum value is: 2.2307818740
+
+Hill Climbing Algorithm (FIRST IMPROVEMENT):
+------[Rastrigin Function]-----
+Parameters: 
+Number Of Dimensions: 10
+Number of hill climbing iterations: 5000
+Epsilon value is: 0.0000100000
+Finished computation at Thu Oct 20 13:02:14 2022
+Elapsed time: 28.6372362000s
+The minimum value is: 3.4666050639
+
+Hill Climbing Algorithm (BEST IMPROVEMENT):
+------[Michalewiczs Function]-----
+Parameters: 
+Number Of Dimensions: 10
+Number of hill climbing iterations: 5000
+Epsilon value is: 0.0000100000
+Finished computation at Thu Oct 20 13:03:55 2022
+Elapsed time: 101.7279880000s
+The minimum value is: -9.4409037197
+
+Hill Climbing Algorithm (FIRST IMPROVEMENT):
+------[Michalewiczs Function]-----
+Parameters: 
+Number Of Dimensions: 10
+Number of hill climbing iterations: 5000
+Epsilon value is: 0.0000100000
+Finished computation at Thu Oct 20 13:04:20 2022
+Elapsed time: 24.0913720000s
+The minimum value is: -9.4227665480
+
+Hill Climbing Algorithm (BEST IMPROVEMENT):
+------[DeJong Function]-----
+Parameters: 
+Number Of Dimensions: 10
+Number of hill climbing iterations: 5000
+Epsilon value is: 0.0000100000
+Finished computation at Thu Oct 20 13:05:35 2022
+Elapsed time: 75.6919585000s
+The minimum value is: 0.0000000002
+
+Hill Climbing Algorithm (FIRST IMPROVEMENT):
+------[DeJong Function]-----
+Parameters: 
+Number Of Dimensions: 10
+Number of hill climbing iterations: 5000
+Epsilon value is: 0.0000100000
+Finished computation at Thu Oct 20 13:05:49 2022
+Elapsed time: 13.7973761000s
+The minimum value is: 0.0000000002
+
+Hill Climbing Algorithm (BEST IMPROVEMENT):
+------[Schwefell Function]-----
+Parameters: 
+Number Of Dimensions: 10
+Number of hill climbing iterations: 5000
+Epsilon value is: 0.0000100000
+Finished computation at Thu Oct 20 13:08:38 2022
+Elapsed time: 168.6776439000s
+The minimum value is: -4189.3086643437
+
+Hill Climbing Algorithm (FIRST IMPROVEMENT):
+------[Schwefell Function]-----
+Parameters: 
+Number Of Dimensions: 10
+Number of hill climbing iterations: 5000
+Epsilon value is: 0.0000100000
+Finished computation at Thu Oct 20 13:09:16 2022
+Elapsed time: 38.6794364000s
+The minimum value is: -4036.8368530748
+
+Hill Climbing Algorithm (BEST IMPROVEMENT):
+------[Rastrigin Function]-----
+Parameters: 
+Number Of Dimensions: 30
+Number of hill climbing iterations: 500
+Epsilon value is: 0.0000100000
+Finished computation at Thu Oct 20 13:11:55 2022
+Elapsed time: 158.4561944000s
+The minimum value is: 32.2363212376
+
+Hill Climbing Algorithm (FIRST IMPROVEMENT):
+------[Rastrigin Function]-----
+Parameters: 
+Number Of Dimensions: 30
+Number of hill climbing iterations: 500
+Epsilon value is: 0.0000100000
+Finished computation at Thu Oct 20 13:12:15 2022
+Elapsed time: 20.3100908000s
+The minimum value is: 39.1461281475
+
+Hill Climbing Algorithm (BEST IMPROVEMENT):
+------[Michalewiczs Function]-----
+Parameters: 
+Number Of Dimensions: 30
+Number of hill climbing iterations: 500
+Epsilon value is: 0.0000100000
+Finished computation at Thu Oct 20 13:15:31 2022
+Elapsed time: 195.7471668000s
+The minimum value is: -27.0673233075
+
+Hill Climbing Algorithm (FIRST IMPROVEMENT):
+------[Michalewiczs Function]-----
+Parameters: 
+Number Of Dimensions: 30
+Number of hill climbing iterations: 500
+Epsilon value is: 0.0000100000
+Finished computation at Thu Oct 20 13:15:55 2022
+Elapsed time: 23.9274288000s
+The minimum value is: -25.1711712385
+
+Hill Climbing Algorithm (BEST IMPROVEMENT):
+------[DeJong Function]-----
+Parameters: 
+Number Of Dimensions: 30
+Number of hill climbing iterations: 500
+Epsilon value is: 0.0000100000
+Finished computation at Thu Oct 20 13:18:36 2022
+Elapsed time: 160.9012454000s
+The minimum value is: 0.0000000007
+
+Hill Climbing Algorithm (FIRST IMPROVEMENT):
+------[DeJong Function]-----
+Parameters: 
+Number Of Dimensions: 30
+Number of hill climbing iterations: 500
+Epsilon value is: 0.0000100000
+Finished computation at Thu Oct 20 13:18:50 2022
+Elapsed time: 13.8290498000s
+The minimum value is: 0.0000000007
+
+Hill Climbing Algorithm (BEST IMPROVEMENT):
+------[Schwefell Function]-----
+Parameters: 
+Number Of Dimensions: 30
+Number of hill climbing iterations: 500
+Epsilon value is: 0.0000100000
+Finished computation at Thu Oct 20 13:25:23 2022
+Elapsed time: 393.2322820000s
+The minimum value is: -11290.8276524143
+
+Hill Climbing Algorithm (FIRST IMPROVEMENT):
+------[Schwefell Function]-----
+Parameters: 
+Number Of Dimensions: 30
+Number of hill climbing iterations: 500
+Epsilon value is: 0.0000100000
+Finished computation at Thu Oct 20 13:25:57 2022
+Elapsed time: 34.1768848000s
+The minimum value is: -10420.5461741080
+
+Running nr 2
+Hill Climbing Algorithm (BEST IMPROVEMENT):
+------[Rastrigin Function]-----
+Parameters: 
+Number Of Dimensions: 5
+Number of hill climbing iterations: 10000
+Epsilon value is: 0.0000100000
+Finished computation at Thu Oct 20 13:26:19 2022
+Elapsed time: 22.2165585000s
+The minimum value is: 0.0000000237
+
+Hill Climbing Algorithm (FIRST IMPROVEMENT):
+------[Rastrigin Function]-----
+Parameters: 
+Number Of Dimensions: 5
+Number of hill climbing iterations: 10000
+Epsilon value is: 0.0000100000
+Finished computation at Thu Oct 20 13:26:30 2022
+Elapsed time: 10.6985107000s
+The minimum value is: 0.0000000237
+
+Hill Climbing Algorithm (BEST IMPROVEMENT):
+------[Michalewiczs Function]-----
+Parameters: 
+Number Of Dimensions: 5
+Number of hill climbing iterations: 10000
+Epsilon value is: 0.0000100000
+Finished computation at Thu Oct 20 13:26:54 2022
+Elapsed time: 24.0514678000s
+The minimum value is: -4.6876560470
+
+Hill Climbing Algorithm (FIRST IMPROVEMENT):
+------[Michalewiczs Function]-----
+Parameters: 
+Number Of Dimensions: 5
+Number of hill climbing iterations: 10000
+Epsilon value is: 0.0000100000
+Finished computation at Thu Oct 20 13:27:05 2022
+Elapsed time: 10.8679895000s
+The minimum value is: -4.6876298341
+
+Hill Climbing Algorithm (BEST IMPROVEMENT):
+------[DeJong Function]-----
+Parameters: 
+Number Of Dimensions: 5
+Number of hill climbing iterations: 10000
+Epsilon value is: 0.0000100000
+Finished computation at Thu Oct 20 13:27:32 2022
+Elapsed time: 27.2080877000s
+The minimum value is: 0.0000000001
+
+Hill Climbing Algorithm (FIRST IMPROVEMENT):
+------[DeJong Function]-----
+Parameters: 
+Number Of Dimensions: 5
+Number of hill climbing iterations: 10000
+Epsilon value is: 0.0000100000
+Finished computation at Thu Oct 20 13:27:40 2022
+Elapsed time: 8.1883554000s
+The minimum value is: 0.0000000001
+
+Hill Climbing Algorithm (BEST IMPROVEMENT):
+------[Schwefell Function]-----
+Parameters: 
+Number Of Dimensions: 5
+Number of hill climbing iterations: 10000
+Epsilon value is: 0.0000100000
+Finished computation at Thu Oct 20 13:28:32 2022
+Elapsed time: 51.5404635000s
+The minimum value is: -2094.9134744186
+
+Hill Climbing Algorithm (FIRST IMPROVEMENT):
+------[Schwefell Function]-----
+Parameters: 
+Number Of Dimensions: 5
+Number of hill climbing iterations: 10000
+Epsilon value is: 0.0000100000
+Finished computation at Thu Oct 20 13:28:53 2022
+Elapsed time: 20.7890195000s
+The minimum value is: -2094.7064669125
+
+Hill Climbing Algorithm (BEST IMPROVEMENT):
+------[Rastrigin Function]-----
+Parameters: 
+Number Of Dimensions: 10
+Number of hill climbing iterations: 5000
+Epsilon value is: 0.0000100000
+Finished computation at Thu Oct 20 13:30:15 2022
+Elapsed time: 82.9938996000s
+The minimum value is: 2.0000233973
+
+Hill Climbing Algorithm (FIRST IMPROVEMENT):
+------[Rastrigin Function]-----
+Parameters: 
+Number Of Dimensions: 10
+Number of hill climbing iterations: 5000
+Epsilon value is: 0.0000100000
+Finished computation at Thu Oct 20 13:30:42 2022
+Elapsed time: 26.5796252000s
+The minimum value is: 5.7024390590
+
+Hill Climbing Algorithm (BEST IMPROVEMENT):
+------[Michalewiczs Function]-----
+Parameters: 
+Number Of Dimensions: 10
+Number of hill climbing iterations: 5000
+Epsilon value is: 0.0000100000
+Finished computation at Thu Oct 20 13:32:05 2022
+Elapsed time: 83.1986126000s
+The minimum value is: -9.5671865470
+
+Hill Climbing Algorithm (FIRST IMPROVEMENT):
+------[Michalewiczs Function]-----
+Parameters: 
+Number Of Dimensions: 10
+Number of hill climbing iterations: 5000
+Epsilon value is: 0.0000100000
+Finished computation at Thu Oct 20 13:32:23 2022
+Elapsed time: 17.3541551000s
+The minimum value is: -9.4006033505
+
+Hill Climbing Algorithm (BEST IMPROVEMENT):
+------[DeJong Function]-----
+Parameters: 
+Number Of Dimensions: 10
+Number of hill climbing iterations: 5000
+Epsilon value is: 0.0000100000
+Finished computation at Thu Oct 20 13:33:28 2022
+Elapsed time: 65.1245132000s
+The minimum value is: 0.0000000002
+
+Hill Climbing Algorithm (FIRST IMPROVEMENT):
+------[DeJong Function]-----
+Parameters: 
+Number Of Dimensions: 10
+Number of hill climbing iterations: 5000
+Epsilon value is: 0.0000100000
+Finished computation at Thu Oct 20 13:33:42 2022
+Elapsed time: 13.8561371000s
+The minimum value is: 0.0000000002
+
+Hill Climbing Algorithm (BEST IMPROVEMENT):
+------[Schwefell Function]-----
+Parameters: 
+Number Of Dimensions: 10
+Number of hill climbing iterations: 5000
+Epsilon value is: 0.0000100000
+Finished computation at Thu Oct 20 13:36:41 2022
+Elapsed time: 179.2627383000s
+The minimum value is: -4155.3837889621
+
+Hill Climbing Algorithm (FIRST IMPROVEMENT):
+------[Schwefell Function]-----
+Parameters: 
+Number Of Dimensions: 10
+Number of hill climbing iterations: 5000
+Epsilon value is: 0.0000100000
+Finished computation at Thu Oct 20 13:37:19 2022
+Elapsed time: 37.8564484000s
+The minimum value is: -4070.4848370070
+
+Hill Climbing Algorithm (BEST IMPROVEMENT):
+------[Rastrigin Function]-----
+Parameters: 
+Number Of Dimensions: 30
+Number of hill climbing iterations: 500
+Epsilon value is: 0.0000100000
+Finished computation at Thu Oct 20 13:40:14 2022
+Elapsed time: 175.2854719000s
+The minimum value is: 26.3242024994
+
+Hill Climbing Algorithm (FIRST IMPROVEMENT):
+------[Rastrigin Function]-----
+Parameters: 
+Number Of Dimensions: 30
+Number of hill climbing iterations: 500
+Epsilon value is: 0.0000100000
+Finished computation at Thu Oct 20 13:40:31 2022
+Elapsed time: 16.5013117000s
+The minimum value is: 48.9843992203
+
+Hill Climbing Algorithm (BEST IMPROVEMENT):
+------[Michalewiczs Function]-----
+Parameters: 
+Number Of Dimensions: 30
+Number of hill climbing iterations: 500
+Epsilon value is: 0.0000100000
+Finished computation at Thu Oct 20 13:44:12 2022
+Elapsed time: 221.7247454000s
+The minimum value is: -26.7926554382
+
+Hill Climbing Algorithm (FIRST IMPROVEMENT):
+------[Michalewiczs Function]-----
+Parameters: 
+Number Of Dimensions: 30
+Number of hill climbing iterations: 500
+Epsilon value is: 0.0000100000
+Finished computation at Thu Oct 20 13:44:28 2022
+Elapsed time: 16.0686455000s
+The minimum value is: -25.6101729984
+
+Hill Climbing Algorithm (BEST IMPROVEMENT):
+------[DeJong Function]-----
+Parameters: 
+Number Of Dimensions: 30
+Number of hill climbing iterations: 500
+Epsilon value is: 0.0000100000
+Finished computation at Thu Oct 20 13:47:10 2022
+Elapsed time: 162.0902532000s
+The minimum value is: 0.0000000007
+
+Hill Climbing Algorithm (FIRST IMPROVEMENT):
+------[DeJong Function]-----
+Parameters: 
+Number Of Dimensions: 30
+Number of hill climbing iterations: 500
+Epsilon value is: 0.0000100000
+Finished computation at Thu Oct 20 13:47:23 2022
+Elapsed time: 12.8723768000s
+The minimum value is: 0.0000000007
+
+Hill Climbing Algorithm (BEST IMPROVEMENT):
+------[Schwefell Function]-----
+Parameters: 
+Number Of Dimensions: 30
+Number of hill climbing iterations: 500
+Epsilon value is: 0.0000100000
+Finished computation at Thu Oct 20 13:53:45 2022
+Elapsed time: 381.6245629000s
+The minimum value is: -11271.3877372457
+
+Hill Climbing Algorithm (FIRST IMPROVEMENT):
+------[Schwefell Function]-----
+Parameters: 
+Number Of Dimensions: 30
+Number of hill climbing iterations: 500
+Epsilon value is: 0.0000100000
+Finished computation at Thu Oct 20 13:54:20 2022
+Elapsed time: 34.6864150000s
+The minimum value is: -10786.6609155601
+
