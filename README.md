@@ -1,4 +1,8 @@
 # Global_Minimum-Simulated_Annealing
-An implementation of an Iterative Hill Climbing algorithm along with Simulated Annealing heuristic that computes the global minimum of several multidimensional benchmark functions.
+The main goal of this experiment is to compute the global minimum value of several multidimensional benchmark functions.
+
 Consult **Paper.pdf** to see the contents of the experiment.  
-The source code written for this research is in the **src** directory.
+
+This paper describes an **Iterative Hill Climbing** algorithm that also uses the **Simulated Annealing** heuristic.
+
+The source code written for this experiment is in the **src** directory.
